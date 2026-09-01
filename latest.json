@@ -1,0 +1,7 @@
+{
+  "version": "0.9.2",
+  "binary": "ember-0.9.2.exe",
+  "notes": "Voice clipping listens to the microphone you pick, not the Windows default",
+  "bytes": 10697728,
+  "sha256": "e1186e817ed484493cfa293e709243a73686d2b37fdcbca1b03e1014a8bb2af2"
+}
