@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2",
-  "binary": "ember-2.0.2.exe",
+  "version": "2.0.3",
+  "binary": "ember-2.0.3.exe",
   "notes": "",
-  "bytes": 12535296,
-  "sha256": "b6737cba01a57f653cf60d31e0c797508fbbf7c261100bbb11f546dd0910efc6"
+  "bytes": 12535808,
+  "sha256": "d8d0540b9a88385efa93c2ab27a8d12a460e77c928da2a1560ed8c113859b800"
 }
