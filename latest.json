@@ -1,7 +1,7 @@
 {
-  "version": "2.1.6",
-  "binary": "ember-2.1.6.exe",
+  "version": "2.3.0",
+  "binary": "clutch-2.3.0.exe",
   "notes": "",
-  "bytes": 13001728,
-  "sha256": "e7f40c0369305b373d5ed9c527520744079763e3eb2a6b2b94ec5f3c5f8194ef"
+  "bytes": 15092224,
+  "sha256": "6190c6526ddbc634eaf3ec948cf351156061f53ae0f7a0d7e7f6ee8193e2e44d"
 }
