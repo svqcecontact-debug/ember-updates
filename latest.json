@@ -1,7 +1,7 @@
 {
-  "version": "2.7.0",
-  "binary": "clutch-2.7.0.exe",
+  "version": "2.7.1",
+  "binary": "clutch-2.7.1.exe",
   "notes": "",
-  "bytes": 15315968,
-  "sha256": "aafa240d58068339389031cc34bae509936fe7000cfcf1680e262af8d05fe1f6"
+  "bytes": 15320064,
+  "sha256": "cb6c9a59c43332756e50e65b8a1242371a7da91e395c02224b1c82e4dc64ca1e"
 }
