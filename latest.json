@@ -1,7 +1,7 @@
 {
-  "version": "2.10.0",
-  "binary": "clutch-2.10.0.exe",
-  "notes": "Albums are a real feature now, with star ratings, pins, a blur box, TikTok layouts and a replay buffer that can live on disk",
-  "bytes": 19031040,
-  "sha256": "beb3a33bb0e30870b8141962e5fe88ba605c1a47f8188b24e1caec20a12c1de2"
+  "version": "2.11.0",
+  "binary": "clutch-2.11.0.exe",
+  "notes": "Installing and setting up Clutch is a real experience now, and the setup asks which speakers and microphone to use and proves they work",
+  "bytes": 19107840,
+  "sha256": "719949c8053d0663b12ef518576e20c106945687b427590579c8a967c2968fe6"
 }
