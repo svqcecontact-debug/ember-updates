@@ -1,7 +1,7 @@
 {
-  "version": "2.8.0",
-  "binary": "clutch-2.8.0.exe",
-  "notes": "",
-  "bytes": 15497216,
-  "sha256": "ba79a541742c147761330d54019b062789820165f99b16bf9458ebe31e2d861d"
+  "version": "2.9.0",
+  "binary": "clutch-2.9.0.exe",
+  "notes": "The editor is a real editor now: any size and length, layers, typed text, and sound split into lanes",
+  "bytes": 16466944,
+  "sha256": "ae9fe0ea80d999cee4f01193457ed8fff6b9b08b72a4da16b63960b78b40972c"
 }
