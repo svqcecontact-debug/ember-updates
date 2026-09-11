@@ -1,7 +1,7 @@
 {
-  "version": "2.9.0",
-  "binary": "clutch-2.9.0.exe",
-  "notes": "The editor is a real editor now: any size and length, layers, typed text, and sound split into lanes",
-  "bytes": 16466944,
-  "sha256": "ae9fe0ea80d999cee4f01193457ed8fff6b9b08b72a4da16b63960b78b40972c"
+  "version": "2.10.0",
+  "binary": "clutch-2.10.0.exe",
+  "notes": "Albums are a real feature now, with star ratings, pins, a blur box, TikTok layouts and a replay buffer that can live on disk",
+  "bytes": 19031040,
+  "sha256": "beb3a33bb0e30870b8141962e5fe88ba605c1a47f8188b24e1caec20a12c1de2"
 }
