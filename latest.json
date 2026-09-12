@@ -1,7 +1,7 @@
 {
-  "version": "2.12.0",
-  "binary": "clutch-2.12.0.exe",
-  "notes": "Simpler everywhere with nothing taken away: shorter menus in one order, settings that show the few things you change, and an editor that opens as a clip and a timeline",
-  "bytes": 19111936,
-  "sha256": "0bf3a80cb6b20ca9d75a37d1cbf1033f8ef0d8ab89103ac28db2cbc9917aa78d"
+  "version": "2.13.0",
+  "binary": "clutch-2.13.0.exe",
+  "notes": "A real editor: several clips on one timeline, ripple trims, in and out points, lane headers, a mixer, and projects you can save and reopen",
+  "bytes": 20522496,
+  "sha256": "1a172a672de59b2d400ba237c312e3ea7962495d2dd248dfabdd17dd99278707"
 }
