@@ -1,7 +1,7 @@
 {
-  "version": "2.16.1",
-  "binary": "clutch-2.16.1.exe",
-  "notes": "The play button in the Clutch logo sits in the middle now",
+  "version": "2.16.2",
+  "binary": "clutch-2.16.2.exe",
+  "notes": "Settings sections line up properly instead of sitting against the edge of their box",
   "bytes": 20582400,
-  "sha256": "1339a2162afe837c64a5082a6f318f04ca929bda214961ae86c63c960e544aba"
+  "sha256": "7f5590abf44ed38e5e11fcfb01a0cddf2819188cd7b64fcb0d8e29a60768307e"
 }
