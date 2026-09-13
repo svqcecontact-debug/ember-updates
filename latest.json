@@ -1,7 +1,7 @@
 {
-  "version": "2.16.0",
-  "binary": "clutch-2.16.0.exe",
-  "notes": "Settings say what they do in plain words, and clip cards and Free up space are back how they were",
-  "bytes": 20587008,
-  "sha256": "2f58ea7531d39827e76c7f48aa41d496585c62cc8b4b50b73a4f2754fc5712b8"
+  "version": "2.16.1",
+  "binary": "clutch-2.16.1.exe",
+  "notes": "The play button in the Clutch logo sits in the middle now",
+  "bytes": 20582400,
+  "sha256": "1339a2162afe837c64a5082a6f318f04ca929bda214961ae86c63c960e544aba"
 }
