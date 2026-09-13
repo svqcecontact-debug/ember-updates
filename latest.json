@@ -1,7 +1,7 @@
 {
-  "version": "2.15.0",
-  "binary": "clutch-2.15.0.exe",
-  "notes": "A cleaner Clutch built for players, and the frame rate box now shows your game's own frame rate when Windows allows it",
-  "bytes": 20581888,
-  "sha256": "092167657bda2623ce4213d973e94dffb18145d5c57f0f61d43b2b6572964a73"
+  "version": "2.16.0",
+  "binary": "clutch-2.16.0.exe",
+  "notes": "Settings say what they do in plain words, and clip cards and Free up space are back how they were",
+  "bytes": 20587008,
+  "sha256": "2f58ea7531d39827e76c7f48aa41d496585c62cc8b4b50b73a4f2754fc5712b8"
 }
