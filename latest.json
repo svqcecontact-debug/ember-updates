@@ -1,7 +1,7 @@
 {
-  "version": "2.14.0",
-  "binary": "clutch-2.14.0.exe",
-  "notes": "Press the recording key twice to start 15 seconds earlier, three times for 30, and on up to everything the buffer is holding",
-  "bytes": 20559872,
-  "sha256": "80849abb9503ce1ed054fa3d5f7c8ce420db74a0e782ad1d3fc01cb7934b1b10"
+  "version": "2.15.0",
+  "binary": "clutch-2.15.0.exe",
+  "notes": "A cleaner Clutch built for players, and the frame rate box now shows your game's own frame rate when Windows allows it",
+  "bytes": 20581888,
+  "sha256": "092167657bda2623ce4213d973e94dffb18145d5c57f0f61d43b2b6572964a73"
 }
