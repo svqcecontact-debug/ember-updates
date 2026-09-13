@@ -1,7 +1,7 @@
 {
-  "version": "2.16.2",
-  "binary": "clutch-2.16.2.exe",
-  "notes": "Settings sections line up properly instead of sitting against the edge of their box",
-  "bytes": 20582400,
-  "sha256": "7f5590abf44ed38e5e11fcfb01a0cddf2819188cd7b64fcb0d8e29a60768307e"
+  "version": "2.16.3",
+  "binary": "clutch-2.16.3.exe",
+  "notes": "A real recording mode: its own Settings page with presets, full control over resolution, frame rate, bitrate and encoder, and its own keys",
+  "bytes": 20697088,
+  "sha256": "7fca90803aeada7e07a8d5debf291f6e0396f0bc3e056229df17fbb29312aa8e"
 }
