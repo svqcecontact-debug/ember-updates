@@ -1,7 +1,7 @@
 {
-  "version": "2.16.3",
-  "binary": "clutch-2.16.3.exe",
-  "notes": "A real recording mode: its own Settings page with presets, full control over resolution, frame rate, bitrate and encoder, and its own keys",
-  "bytes": 20697088,
-  "sha256": "7fca90803aeada7e07a8d5debf291f6e0396f0bc3e056229df17fbb29312aa8e"
+  "version": "2.25.0",
+  "binary": "clutch-2.25.0.exe",
+  "notes": "Groups in Studio: Ctrl+click layers and group them, then move, resize, turn or fade them together",
+  "bytes": 21582848,
+  "sha256": "7a2d9f1e782d95303c3f140faf925b297608f3acb2980288730fb0d12e6a4f4f"
 }
