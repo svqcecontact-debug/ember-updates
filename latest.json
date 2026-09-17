@@ -1,7 +1,7 @@
 {
-  "version": "2.25.0",
-  "binary": "clutch-2.25.0.exe",
-  "notes": "Groups in Studio: Ctrl+click layers and group them, then move, resize, turn or fade them together",
-  "bytes": 21582848,
-  "sha256": "7a2d9f1e782d95303c3f140faf925b297608f3acb2980288730fb0d12e6a4f4f"
+  "version": "2.31.0",
+  "binary": "clutch-2.31.0.exe",
+  "notes": "Snip part of the screen with Ctrl+PrtSc, a bell with everything Clutch told you lately, and a tidier editor timeline",
+  "bytes": 21889024,
+  "sha256": "a5710bc52104b4281e7155ce3af6cb98d5d2935f3ef741a7eff8b65f61b66937"
 }
